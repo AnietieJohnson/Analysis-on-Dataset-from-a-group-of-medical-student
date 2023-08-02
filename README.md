@@ -38,7 +38,7 @@ Data visualization is the art of representing complex information visually. By t
 ## Dataset Used
 ![](https://github.com/AnietieJohnson/Week2-Excel-task/blob/main/Medical%20data%20set%20after%20cleaning.png)
 ## Task Solution
-**READING FROM LEFT TO RIGHT on the report for containing the visuals**
+**READING FROM LEFT TO RIGHT on the report containing the visuals**
 Dashboard
 ![](https://github.com/AnietieJohnson/Week2-Excel-task/blob/main/Dash%20board%20for%20visuals.png)
 The first pivot table shows Average values of Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol Per Gender. I created the chart using **_pivot table analyze Tab_** on the report sheet, I clicked on _Pivot chart_ and chose _Column chart_ because it gave a better representation to my data. I removed the fields on the chart that were not giving meaning to my visuals from _chart element_. Then I used Format chat area to give diferring color shades toeach of my chart bars. This helps to highlight that the bars represent different information connected to the gender. I also used text box to write a suitable title and insight for the visual. The Horizotal axis label shows gender and my legend shows the parameters being described.
